@@ -1,0 +1,55 @@
+---
+keywords: ['survey', 'surveys', 'groups', 'triggers', 'scheduling']
+---
+
+
+# Surveys
+
+> Note: Before creating your survey, to make your life easier, we recommend adding/creating any new <a href="participants">participants</a> or <a href="groups">groups</a> that will be involved.
+___
+**Surveys**, the means you use to do your research with Reaction are located on the left. This is where you'll go to see all your ongoing and completed surveys, as well as create news ones.
+
+![](http://ima.gs/Placeholder-400x200.png "This will be a screenshot of the menu bar with Surveys circled")
+
+If you're a first timer in Reaction or you want just want to get down to business, you'll want to get straight to the creation process(add link to "configuring the survey") and click the ![](Insert + button here) in the top right corner. This will give you the option to create one of two types of surveys:
+  * **NPS** is a classic Net Promoter Score Survey, with pre-generated questions to assure consistency (though additional questions are still an option).
+  * **Freeform** is for anything and everything else. 
+ 
+If you have any existing surveys, whether they're still being worked on ("Draft"), ongoing ("Open"), or completed ("Closed"), they'll be the colorful tiles like you see here:
+
+![](http://ima.gs/Placeholder-400x200.png "This will be a screnshot of a Survey tile with annotations describing each aspect of it")
+
+### Creating your Survey: 
+##### Details Tab
+
+1. **Configure Survey** - This is the important stuff.
+   * Every Survey needs a name! This is not visible to the participants so feel free to get creative. For organizational purposes, you may want to include “| month year” after the name. Ex: "Revenue Cycle | May 2015" 
+   * Describe your survey. What are your goals? What do you hope to achieve by asking the questions you'll soon be creating? What is the meaning of the universe? Keep in mind you, or someone else entirely, could be coming back to this in a year or more.
+   * NEED MORE INFO ON TAGS
+2. **Participant Invitation** - How do you want your survey to be distributed? (We're working on the "by owl" option.)
+   * "Is Trigger Based?" or — "if this happens, then do that" — will allow you to send a survey automatically when a case is closed in Salesforce.  NEED TO DOUBLE CHECK THIS
+   * The "Participant Group" dropdown will be where you select the pre-configured audience you want to reach. (You did read the note at the beginning that told you to create a group before you got to this point, right?)
+3. **Design Settings** - We don't want to distract from the research; but here's your chance to make things a bit flashy.
+   * If you're using Reaction, chances are you know someone who has created a logo, even if you haven't yourself. Show it off!
+   * The "Admin Color" can be used to organize surveys in a visual way or, it could be a rare opportunity to choose your favorite color while you're getting paid for it. 
+4. **Completion Page Custom Content** - 
+5. **Freeform Options** - 
+
+![](http://ima.gs/Placeholder-400x200.png "This will be a screnshot of the Details section with annotation of each section")
+
+##### Questions Tab
+
+
+### Trigger or Group Based
+
+todo: placeholder
+
+### Scheduling Surveys
+
+You can specify a survey start and survey end date. This will change the survey status from scheduled to open, and open to closed, when that date / time comes. When a survey is closed, participations will no longer be recorded, and will not show up in any of your reports.
+
+In the below screenshot, the survey's status will change to open on May 3rd at 4:00 AM, and close on May 12th, at 12:00 AM.
+
+![Scheduling Survey](/images/surveys/creating_surveys/scheduling.png "Setting a scheduled survey start / end date")
+
+![](http://giant.gfycat.com/WatchfulAlarmedHorseshoecrab.gif)
